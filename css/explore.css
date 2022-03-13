@@ -1,0 +1,10 @@
+.card {
+    transition: 0.2s all ease-in;
+    cursor: pointer;
+    
+}
+
+.card:hover {
+    filter: grayscale(70%);
+    transition: 0.3s all ease-in-out;
+}
